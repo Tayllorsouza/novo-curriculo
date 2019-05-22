@@ -11,12 +11,12 @@ color: #333
 .conteudo{
     width: 80%;
     margin: 0 auto;
-    background: ;
+    background: white;
 }
 .cabecalho{
     display: flex;
     justify-content: space-between;
-    padding: 20%, 0;
+    padding: 20px 0;
 }
 .foto{
     width: 150px;
@@ -41,4 +41,30 @@ ul{
 }
 .experiencia {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.esquerda{
+    width: 20%;
+    text-align: right;
+}
+.titulo-sessao,
+.subtitulo-sessao {
+    font-size: 21px;
+    text-transform: uppercase;
+    margin: 1%;
+}
+.subtitulo-sessao{
+    font-size: 16px;
+}
+.direita{
+    width: 78%;
+}
+.rodape{
+    background: #333333;
+    color: #7DFDFF;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
 }
