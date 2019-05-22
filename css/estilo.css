@@ -39,3 +39,6 @@ ul{
     justify-content: space-between;
      width: 150px;
 }
+.experiencia {
+    display: flex;
+}
