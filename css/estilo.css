@@ -67,11 +67,18 @@ a{
     text-align: right;
 }
 .titulo-sessao,
-.subtitulo-sessao {
+.subtitulo-sessao,  {
     font-size: 21px;
     text-transform: uppercase;
-    margin: 7px;
+    margin-bottom: 30px;
 }
+.subitle{
+    font-size: 10px; 
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    margin: 1%;
+}
+
 .subtitulo-sessao{
     font-size: 16px;
 }
