@@ -110,13 +110,11 @@ border:   1px  black solid;
     
     height: 10px;
     background: #000000; 
-    margin: 8px;
     border-radius: 10px;
 }
+
 .skill{
-    width: 48%;
-    
-    
+    width: 48%;    
 }
 .skill div{
     display: flex;
@@ -127,20 +125,20 @@ border:   1px  black solid;
     margin-right: 30px;
 }
 .habilidade-100{
-width: 100px;
+width: 100%;
 }
 .habilidade-90{
-width: 90px;
+width: 90%;
 }
 .habilidade-80{
-width: 80px;
-}
+width: 80%;
+}   
 .habilidade-70{
-width: 70px;
+width: 70%;
 }
 .habilidade-60{
-width: 60px;
+width: 60%;
 }
 .habilidade-50{
-width: 50px;
+width: 50%;
 }
