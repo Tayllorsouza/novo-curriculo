@@ -71,6 +71,7 @@ a{
     font-size: 21px;
     text-transform: uppercase;
     margin-bottom: 30px;
+    
 }
 .subitle{
     font-size: 10px; 
@@ -94,4 +95,52 @@ a{
 }
 hr{
 border:   1px  black solid;
+}
+.borda-barra{
+    height: 10px;
+    width: 100%;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+.habilidades{
+    display: flex;
+    justify-content: space-between;
+}
+.barra{
+    
+    height: 10px;
+    background: #000000; 
+    margin: 8px;
+    border-radius: 10px;
+}
+.skill{
+    width: 48%;
+    
+    
+}
+.skill div{
+    display: flex;
+    
+    
+}
+.skill div span{
+    margin-right: 30px;
+}
+.habilidade-100{
+width: 100px;
+}
+.habilidade-90{
+width: 90px;
+}
+.habilidade-80{
+width: 80px;
+}
+.habilidade-70{
+width: 70px;
+}
+.habilidade-60{
+width: 60px;
+}
+.habilidade-50{
+width: 50px;
 }
